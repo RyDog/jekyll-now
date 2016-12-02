@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    
 <article class="post">
   <h1>{{ page.title }}</h1>
 
