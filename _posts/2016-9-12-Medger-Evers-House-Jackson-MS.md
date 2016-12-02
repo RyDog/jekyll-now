@@ -2,10 +2,6 @@
 layout: post
 title: Medger Evers House 
 ---
-
-9/12/16
-
-
 I left New Orleans and drove north through Mississippi until I got to Jackson where I stopped to pay a visit to a Civil Rights landmark, the Medgar Evers House and Museum. 
 On June 12, 1963 Medgar Evers was assassinated here in his carport at the age of 37. Evers was a civil rights activist and the NAACP's first field secretary for Mississippi. 
 Evers worked to overturn segregation at the University of Mississippi, secure voting rights for African Americans and other changes in the segregated South. 
