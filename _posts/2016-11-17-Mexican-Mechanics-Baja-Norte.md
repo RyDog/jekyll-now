@@ -14,6 +14,7 @@ I suspected he was either lying or incompetent, and it turns out that what he to
 My man here in mexico took the wheels off, we inspected the rear brake cylinders and there was no sign of fluid leaking from either cylinder. 
 So he cleaned everything off, did a couple of other little repairs i've been meaning to get done, changed the motor oil and filter and charged me $35 for everything. 
 I love Mexico.
+
 ![Mechanico](/images/mechanico.jpg)
 
 -g.o.
