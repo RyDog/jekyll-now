@@ -3,19 +3,14 @@ type: post
 title: What's it Like to Work on a Ship?
 ---
 Office Politics:        
-Two days ago the Chief Officer discovered that all of the six ballpoint pens located on the ship's bridge exhibited the marks of human teeth.
+Two days ago the Chief Officer discovered that all of the six ballpoint pens located on the ship's bridge exhibited the marks of human teeth.  
+These pens are "common" to the bridge and used by all of the deck officers to make logbook entries.  
+A day before the Chief Officer's discovery, I discovered a pen bearing the logo of the Comfort Inn with a jagged edge where the top of the pen had been completely chewed off.  
+I threw the pen into the waste basket, and thinking that it was surely an isolated incident and not a sign of a broader problem, thought no more of it.  
+Until the beginning of my midnight watch yesterday,  
+![Penible](/images/penible.jpg)
 
-
-These pens are "common" to the bridge and used by all of the deck officers to make logbook entries.
-
-
-A day before the Chief Officer's discovery, I discovered a pen bearing the logo of the Comfort Inn with a jagged edge where the top of the pen had been completely chewed off.
-
-
-I threw the pen into the waste basket, and thinking that it was surely an isolated incident and not a sign of a broader problem, thought no more of it.
-
-
-Until the beginning of my midnight watch yesterday, when I found a note the Chief Officer created lying on the chart table:
+when I found a note the Chief Officer created lying on the chart table:
 "If you are hungry please eat food - not pens -we all touch these & it's nasty!!!"
 
 
