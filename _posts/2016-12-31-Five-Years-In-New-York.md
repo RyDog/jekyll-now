@@ -1,6 +1,6 @@
 ---
 type: post
-title: A long, rambling, self-absorbed true story called 5 Years in New York
+title: A long, rambling, lightly edited and self-absorbed true story called "5 Years in New York"
 ---
 Some say you have to do 5 years to become a real newyorker.  Some say 10.
 I did 5 and change, but almost never made it at all.  
