@@ -3,10 +3,6 @@ type: post
 title: White Power: A Sea Story
 ---
 
-![White Power](/images/whitepower.jpg){:height="500px" width="500px"}.
-
-White Power: A Sea Story
-
 “You know what would would be a good way to make a lot of money?,” the Mate asked aloud to the only other person on the ship’s bridge. “Take over this Strait and make every ship that passes through it pay you a fee - a tax. That would be a good business. What do you think? You think I’m the first person who ever thought of that idea?”
 
 The Lookout was slumped sideways against the bridge’s starboard bulkhead, staring blankly through his dark, wraparound sunglasses over the containers on the deck, past the bow of the ship and off into the thick haze shrouding the Strait of Hormuz.
