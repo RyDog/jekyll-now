@@ -11,6 +11,7 @@ moving the boxes, stacking the boxes
 empties, twenties, forties and tanks  
 lifting the hatches, lower the hatches  
 banging, clanging, dropping and smashing.
+![Djiboutian](/images/djiboutian.jpg)
 
 walking the deck, checking the times  
 noise and exhaust  
