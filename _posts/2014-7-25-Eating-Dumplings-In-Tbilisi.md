@@ -2,7 +2,7 @@
 type: post
 title: Eating Dumplings in Tbilisi
 ---
-![Tbilisi](/images/tbilisi.jpg){:height="500px" width="500px"}.
+![Tbilisi](/images/tblisi.jpg){:height="500px" width="500px"}.
 
 /"I'm a long way from home and so all alone/
 /Homesick like I never thought I'd be/
