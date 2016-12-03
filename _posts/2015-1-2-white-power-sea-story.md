@@ -1,7 +1,8 @@
 ---
 type: post
-title: White Power: A Sea Story
+title: White Power (A Sea Story)
 ---
+![White Power](/images/whitepower.jpg){:height="500px" width="500px"}.
 
 “You know what would would be a good way to make a lot of money?,” the Mate asked aloud to the only other person on the ship’s bridge. “Take over this Strait and make every ship that passes through it pay you a fee - a tax. That would be a good business. What do you think? You think I’m the first person who ever thought of that idea?”
 
