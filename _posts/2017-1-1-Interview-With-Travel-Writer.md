@@ -2,7 +2,7 @@
 type: post
 title: Interviews with a Travel Writer #1
 ---
-![travel writer](/images/writer.jpg){:height="36px" width="36px"}.
+![travel writer](/images/writer.jpg){:height="500px" width="500px"}.
 
 +Interviewer: When you write, do you have a reader in mind?
 
