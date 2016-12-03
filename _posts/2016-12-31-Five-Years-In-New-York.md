@@ -1,11 +1,10 @@
 ---
 type: post
-title: 5 Years in New York
+title: A long, rambling, self-absorbed true story called 5 Years in New York
 ---
-*(A long, rambling, self-absorbed true story called “5 years in newyork”)*
 Some say you have to do 5 years to become a real newyorker.  Some say 10.
 I did 5 and change, but almost never made it at all.  
-Out until 6am partying, I rose, barely, after 2 hours of sleep and left an anonymous girl behind in my $1000/night suite at the Hotel Benjamin.  I rushed across midtown and arrived at a large corporate law firm for a half day of interviews, somewhere between extremely intoxicated and painfully hungover.  This was my last shot at a law job in newyork. 
+Out until 6am partying, I rose, barely, after 2 hours of sleep and left a girl who's name I couldn't remember behind in my $1000/night suite at the Hotel Benjamin.  I rushed across midtown and arrived at a large corporate law firm for a half day of interviews, somewhere between extremely intoxicated and painfully hungover.  This was my last shot at a law job in newyork. 
 Afterwards I was certain that they knew I had been drunk, and that they hated me.
 
 
