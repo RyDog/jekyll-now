@@ -2,6 +2,7 @@
 type: post
 title: Djiboutian Cargo Watch
 ---
+![Djiboutian](/images/djiboutian.jpg)
 salt water fumes and diesel fuel vapors  
 painted steel decks, rusting through  
 greasy wires, catching your arm    
@@ -11,8 +12,6 @@ moving the boxes, stacking the boxes
 empties, twenties, forties and tanks  
 lifting the hatches, lower the hatches  
 banging, clanging, dropping and smashing.
-![Djiboutian](/images/djiboutian.jpg)
-
 walking the deck, checking the times  
 noise and exhaust  
 radio sounds  
