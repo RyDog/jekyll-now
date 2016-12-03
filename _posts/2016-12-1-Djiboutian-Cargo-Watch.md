@@ -3,6 +3,7 @@ type: post
 title: Djiboutian Cargo Watch
 ---
 ![Djiboutian](/images/djiboutian.jpg)
+
 salt water fumes and diesel fuel vapors  
 painted steel decks, rusting through  
 greasy wires, catching your arm    
