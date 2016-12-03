@@ -2,6 +2,7 @@
 type: post
 title: White Power: A Sea Story
 ---
+
 ![White Power](/images/whitepower.jpg){:height="500px" width="500px"}.
 
 White Power: A Sea Story
