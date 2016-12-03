@@ -67,3 +67,8 @@ Mate?"
 [[[[ok, ok, well, I’m not sure if that’s true or not, but we should not take any chances. You’re right. Just go ahead and do whatever it takes to make it stop. But I don't want to know about it.]]]]
 
 {{of course you don't...}}
+
+-g.o.
+
+January 2015  
+At Sea Somewhere
