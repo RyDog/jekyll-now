@@ -2,7 +2,7 @@
 type: post
 title: Getting Hammamed (In Search of Authentic Experience)
 ---
-![Hammamed](/images/hammamed.jpg){:height="500px" width="500px"}.
+![Hammamed](/images/hammamed.jpg)
 
 The exfoliating glove was shearing and sloughing off a slightly unnerving amount of skin from my recently tanned forearm. Is that what is supposed to happen? 
 
