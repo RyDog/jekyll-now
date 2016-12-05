@@ -2,7 +2,7 @@
 type: post
 title: A Visit to Hemingway's Grave
 ---
-![Hemingway](/images/hemingway.jpg){:height="500px" width="500px"}.
+![Hemingway](/images/hemingway.jpg)
 
 I paid a visit to hemingway's grave in Ketchum, Idaho today.  
 hemingway killed himself with a long-barreled side-by-side 12 gauge shotgun inside his Ketchum home on July 2, 1961.  
