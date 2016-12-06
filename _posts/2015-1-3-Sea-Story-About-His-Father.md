@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: An Illustrative Story About His Father (A Sea Story)
 ---
 In the very early morning, near the geographical center line of the Gulf of Mexico, a 300 meter container ship is sailing West towards the Texas Coast in an easy motion, rolling gently in a long Southerly swell. A waxing crescent moon sits low above the horizon, reflecting the sun’s light down onto the sea and creating contrast between the dark troughs of the long swell bands and their lighter crests. Low scattered clouds block the light reflected by the moon in some places, and as the the ship carves through the warm gulf water it moves alternately through areas spotlighted by the moon, and then through large, jagged shadows of clouds.
