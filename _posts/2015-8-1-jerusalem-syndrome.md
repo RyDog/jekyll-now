@@ -1,8 +1,8 @@
 ---
-type: post
+layout: post
 title: Jerusalem Syndrome
 ---
-![Jerusalem](/images/jerusalem.jpg){:height="500px" width="500px"}.
+![Jerusalem](/images/jerusalem.jpg)
 
 Jesus spent a significant amount of time up here on the Mount of Olives, and from someone near where I'm standing he delivered the "Olivet Discourse" to his disciples. In the Discourse, Jesus predicts the destruction of the 2nd Temple, and signs of the end of the world as we know it, and of his second coming. 
 
