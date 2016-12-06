@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: A Visit to Hemingway's Grave
 ---
 ![Hemingway](/images/hemingway.jpg)
