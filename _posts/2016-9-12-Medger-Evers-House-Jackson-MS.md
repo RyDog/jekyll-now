@@ -13,6 +13,7 @@ In 1969, Medgar Evers College was established in Brooklyn, New York, as part of 
 Evers is remembered for saying "You can kill a man, but you can't kill an idea."
 👊
 
-
+-g.o.  
+Jackson, MS  
 
 
