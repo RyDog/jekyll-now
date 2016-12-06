@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: If You Go To Cappadocia
 ---
 If you go to Cappadocia, sleep in a cave. You can do it for the price of a 6 pack of microbrew back home. People here have been carving cave houses out of the soft rock and sleeping in them for at least 3500 years. As you are falling asleep, think about how you are connected to them. 
