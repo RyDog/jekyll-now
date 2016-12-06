@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Free Camping Outside of Nederland Colorado
 ---
 ![Nederland](/images/nederland.jpg)
