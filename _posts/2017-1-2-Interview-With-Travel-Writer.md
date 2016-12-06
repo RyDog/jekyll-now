@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Interviews with a Travel Writer (# 1)
 ---
 ![travel writer](/images/writer.jpg)
