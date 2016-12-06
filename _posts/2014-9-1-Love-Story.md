@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: A Love Story
 ---
 He returned to their apartment from the nearby coffee shop where he had been working on his new project and, without speaking, sat down on the couch next to her.  She had been waiting for him in silence.  The day before he had returned from a solo five week international trip that had been the most intense of his traveling life, and he had only just begun the process of re-adjusting to life back at home -- a process that he would eventually decide took the better part of two weeks.  
