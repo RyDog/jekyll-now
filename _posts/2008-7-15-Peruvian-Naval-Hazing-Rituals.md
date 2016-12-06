@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Peruvian Naval Hazing Rituals
 ---
 ![panama](/images/panama.jpg)
