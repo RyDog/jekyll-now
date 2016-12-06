@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Merry Christmas from the Red Sea
 ---
 Merry Christmas from the Red Sea!  
