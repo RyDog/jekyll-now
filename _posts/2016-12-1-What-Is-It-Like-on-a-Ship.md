@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: What's it Like to Work on a Ship?
 ---
 ![Penible](/images/penible.jpg)
