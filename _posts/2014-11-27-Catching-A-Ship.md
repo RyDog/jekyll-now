@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: catching a ship
 ---
 You’re sitting in a corner booth against a window all the way in the back of an International House of Pancakes in Elizabeth, New Jersey on a Wednesday morning drinking your sixth cup of coffee while staring over and past a fake Louis Vuitton carry-on rolly bag stacked opposite you in your booth and out onto the diner’s parking lot which is nearly empty.
