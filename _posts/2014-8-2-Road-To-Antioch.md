@@ -1,8 +1,8 @@
 ---
-type: post
+layout: post
 title: The Road to Antioch
 ---
-![roadtoantioch](/images/roadtoantioch.jpg){:height="500px" width="500px"}.
+![roadtoantioch](/images/roadtoantioch.jpg)
 
 Today I’m leaving Cappadocia and heading to Antioch. 
 
