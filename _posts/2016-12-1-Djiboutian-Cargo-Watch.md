@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Djiboutian Cargo Watch
 ---
 ![Djiboutian](/images/djiboutian.jpg)
