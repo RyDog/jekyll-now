@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: gas station wisdom
 ---
 I left Memphis this morning, crossed the Mississippi River and kept on going down i40, passing farms and farms and farms. 
 I couldn't even tell what they were growing. 
