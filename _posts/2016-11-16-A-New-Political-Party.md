@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: If You Could Not Fail
 ---
 a couple of months ago i was talking to my Mom and i was like "waahhhh wahhhh i don't know what i want to be when i grow up! i don't know what i'm supposed to do with my life wahhh wahhh waaa 🍼👶🍼👶!!!"
