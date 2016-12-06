@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Rocky Mountain Morning
 ---
 ![Rocky Mountain Morning](/images/14374075_1794722254101175_1088689824_n.jpg)
