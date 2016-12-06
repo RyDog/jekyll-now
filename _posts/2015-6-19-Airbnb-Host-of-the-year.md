@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: AirBnb Host of the Year
 ---
 ![Airbnb](/images/airbnb.jpg)
