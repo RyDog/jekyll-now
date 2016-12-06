@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Watch Partners (A Very Typical Sea Story)
 ---
 "Yeahhhhhh...I'm really worried about this picture he sent me on the jeeeee mail. Just sittin' in that livin' room in that Lazy Boy in the middle of the day in Arizona with the blinds drawn like that. Man that ain't right. And he never sends me pictures you know? So of course I didn’t think much of it at the time, but now the more I think about it I just can’t get that image out of my mind - him sitting like that in the dark and wah wahhhmm wahhhh wahhhhwahhh...."
