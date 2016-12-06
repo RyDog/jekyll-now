@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Temple Shim'on
 ---
 ![The Vatican](/images/poste.jpg)
