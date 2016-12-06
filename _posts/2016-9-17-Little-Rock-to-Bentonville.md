@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Little Rock to Bentonville
 ---
 In Little Rock I stayed in an old firehouse that had been turned into a hostel slash firefighter museum. 
