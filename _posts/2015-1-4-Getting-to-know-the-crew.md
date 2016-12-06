@@ -1,8 +1,8 @@
 ---
-type: post
+layout: post
 title: Getting to Know the Crew
 ---
-![Crew](/images/crew.jpg){:height="500px" width="500px"}.
+![Crew](/images/crew.jpg)
 
 Notes: Getting to Know the Crew
 
