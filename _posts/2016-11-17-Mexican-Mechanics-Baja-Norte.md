@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Mexican Mechanics
 ---
 ![Mechanico](/images/mechanico.jpg)
