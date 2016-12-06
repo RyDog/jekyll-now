@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Interviews with a Travel Writer (#2)
 ---
 +Interviewer: Everything you write seems to be about yourself. Have you considered trying to write fiction where you create characters, or writing about other people?
