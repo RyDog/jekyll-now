@@ -1,8 +1,8 @@
 ---
-type: post
+layout: post
 title: Tears 
 ---
-![tears](/images/tears.jpg){:height="500px" width="500px"}.
+![tears](/images/tears.jpg)
 
 The dolmuş pulls over onto the shoulder of the highway 6km east of Urfa. The driver looks at me, and pointing out his window to the north says "Göbekli Tepe." I jump out.
 
