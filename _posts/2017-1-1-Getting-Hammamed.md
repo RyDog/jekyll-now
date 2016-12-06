@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Getting Hammamed (In Search of Authentic Experience)
 ---
 ![Hammamed](/images/hammamed.jpg)
