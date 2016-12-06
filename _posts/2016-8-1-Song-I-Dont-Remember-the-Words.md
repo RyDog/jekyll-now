@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: The Song I Don't Remember the Name Of
 ---
 On a beach in southern Mexico, sky bursting with stars, the Bluesman sat on a rock, singing songs as we laid in the sand before him, looking up, passing joints and big bottles of beer.  
