@@ -2,15 +2,10 @@
 layout: post
 title: Euro Trip
 ---
-![sadda](/images/sadda.jpg)
 
-On a bus ride from Macedonia to Serbia I made a new friend. 
+On a bus ride from Macedonia to Serbia I made a new friend. Sadda is from Somalia, and he is spending the summer backpacking through Europe with 12 of his friends.  His trip started last year in Somalia. 
 
-Sadda is from Somalia, and he is spending the summer backpacking through Europe with 12 of his friends.  
-
-So far they have done the Greek islands, Athens, Macedonia, and now Serbia -- Euro Trip, having a blast.
-
-Sadda’s trip started last year in Somalia. His city of Mogadishu was and is divided into sections controlled by the Somali government and sections controlled by Harakat al-Shabaab al-Mujahideen, a jihadist terrorist group. The conflict has reached a kind of stalemate where the division has become somewhat normalized. There are checkpoints to go from one side to the other: Government troops on the government side, Al-Shabaab on the other.  
+His city of Mogadishu was and is divided into sections controlled by the Somali government and sections controlled by Harakat al-Shabaab al-Mujahideen, a jihadist terrorist group. The conflict has reached a kind of stalemate where the division has become somewhat normalized. There are checkpoints to go from one side to the other: Government troops on the government side, Al-Shabaab on the other.  
 
 Sadda worked on the government side of town but his parents lived on the side controlled by Al Shabaab. One day he went through a checkpoint to visit his parents, and when he returned to the rebel side several days later he was detained by Al-Shabaab and taken to one of their prisons. 
 
