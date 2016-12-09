@@ -19,16 +19,16 @@ avatar:
 footer-links:
   dribbble:
   email:
-  facebook: giovannionei
+  facebook:
   flickr:
-  github: rydog
+  github:
   instagram: giovannioneil
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCA4L3y2yMXjE4eiyKNc2GNw
+  youtube: 
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics: UA-83818122-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://giovannioneil.com/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
